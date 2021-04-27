@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HLC_05</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="action_settings" />
+</resources>
